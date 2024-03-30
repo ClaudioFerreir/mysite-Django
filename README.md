@@ -1,2 +1,2 @@
 # Personal Blog
-## Project built with Django - Python
+## This project was built with Django - Python
